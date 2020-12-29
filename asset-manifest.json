@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/murney-react-website/static/css/main.a2731f2c.chunk.css",
+    "main.js": "/murney-react-website/static/js/main.d064a9b3.chunk.js",
+    "main.js.map": "/murney-react-website/static/js/main.d064a9b3.chunk.js.map",
+    "runtime-main.js": "/murney-react-website/static/js/runtime-main.949f5b14.js",
+    "runtime-main.js.map": "/murney-react-website/static/js/runtime-main.949f5b14.js.map",
+    "static/js/2.a68c7c31.chunk.js": "/murney-react-website/static/js/2.a68c7c31.chunk.js",
+    "static/js/2.a68c7c31.chunk.js.map": "/murney-react-website/static/js/2.a68c7c31.chunk.js.map",
+    "static/js/3.a47132a8.chunk.js": "/murney-react-website/static/js/3.a47132a8.chunk.js",
+    "static/js/3.a47132a8.chunk.js.map": "/murney-react-website/static/js/3.a47132a8.chunk.js.map",
+    "index.html": "/murney-react-website/index.html",
+    "static/css/main.a2731f2c.chunk.css.map": "/murney-react-website/static/css/main.a2731f2c.chunk.css.map",
+    "static/js/2.a68c7c31.chunk.js.LICENSE.txt": "/murney-react-website/static/js/2.a68c7c31.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.949f5b14.js",
+    "static/js/2.a68c7c31.chunk.js",
+    "static/css/main.a2731f2c.chunk.css",
+    "static/js/main.d064a9b3.chunk.js"
+  ]
+}
